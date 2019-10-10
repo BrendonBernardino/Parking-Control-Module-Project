@@ -1,7 +1,6 @@
 # Parking-Control-Module-Project
 Digital Electronic's Final Project - 2019.1 - UFC
-|| Equipe: Brendon Wesley
-        Antônio Ricardo
+|| Equipe: Brendon Wesley e Antônio Ricardo
 
 
 **_COM MOTOR_**
