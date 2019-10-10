@@ -2,6 +2,8 @@
 Digital Electronic's Final Project - 2019.1 - UFC
 || Equipe: Brendon Wesley e Antônio Ricardo
 
+Explicação do projeto: https://www.youtube.com/watch?v=cKRZL6OktoA&t=
+
 
 **_COM MOTOR_**
 
